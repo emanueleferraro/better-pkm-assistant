@@ -1,6 +1,31 @@
-# PKM Assistant
+# (Fork) Better PKM Assistant
 
 **Build your own AI agents inside Obsidian - with full transparency and control over every part of the prompt.**
+
+## What's better in this version
+Main features:
+- Added more supported languages (Italian, German, French)
+- Added "workflow" panel to create visual workflows
+- Fixed graphic problems & interaction bugs
+- Added "markdown-to-agent" function to create agents more faster
+- Added more themes (customizables)
+- Added agent workflow visualizing function to see in real time what agents are doing (ex. agent 1 talking to agent 2 to execute a job) and what are they using and saying
+- Better UI
+- Fixed custom permission bug
+- Added images profile pictures for the agents
+- Added template vaults
+- Added template brain markdown skill to organize files in the vault
+- Upgraded chat
+- Added local models image support
+- Added token optimization
+- Added default tag in every file (to create context for the agent research with title, tags, type, status, created, updated and aliases proprieties)
+- Added control dashboard: buttons, calendar (with mcp server or local), things to do, workflows, data, updates (AI managed), integration (like home assistant and other MCP servers), files, plugins, widgets, automatic workflows trigger, button workflows trigger, integrated chat and custom dashboard themes
+- Added "agent communication" function where agents can communicate to get a goal, you can customize permission.
+- Added plugin to the plugin, where you can easly create plugins for PKM Assistant
+
+all of this will be realeased once i finish.
+
+**Original README:**
 
 [![Version](https://img.shields.io/badge/version-2.2.5-blue)]() [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-green)](LICENSE) [![Tests](https://img.shields.io/badge/tests-3688%20PASS-brightgreen)]() [![CI](https://github.com/JDHole/pkm-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/JDHole/pkm-assistant/actions/workflows/ci.yml)
 
